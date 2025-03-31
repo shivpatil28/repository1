@@ -1,1 +1,2 @@
 This is child branch file .
+Editinf the file .From child branch 2.
